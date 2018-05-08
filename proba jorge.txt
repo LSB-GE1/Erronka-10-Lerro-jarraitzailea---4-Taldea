@@ -1,4 +1,9 @@
 probando git
 cabezon, esto me sigue sin gustat
 soy bueno
+<<<<<<< HEAD
 Hola Jorge y David 
+=======
+Arielka ha entrado
+jajajaja
+>>>>>>> 7907f7ffbdba29c78d49abe2612e3ec4ef97a7f2
