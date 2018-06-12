@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+mierda de git
+=======
+probando git
+cabezon, esto me sigue sin gustat
+soy bueno
+<<<<<<< HEAD
+Hola Jorge y David 
+=======
+Arielka ha entrado
+jajajaja
+
+k puta rayada... no me gusta 
+>>>>>>> 7907f7ffbdba29c78d49abe2612e3ec4ef97a7f2
+>>>>>>> 0c40f65b90461ccff51607b0a169121e57ace284
